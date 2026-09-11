@@ -356,7 +356,6 @@ The complete Machine Learning workflow can be summarized as follows:
 
 ## 📁 Project Structure
 
-A recommended GitHub repository structure is:
 
 ```text
 data-analyst-salary-prediction/
